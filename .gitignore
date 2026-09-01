@@ -1,2 +1,17 @@
+# Executables and build outputs
 *.exe
+*.out
+*.o
+*.obj
+*.app
 
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+
+# Ignored directories
+AMIT/
+array/
+PROJECT - 02/
