@@ -1,6 +1,6 @@
 # 🚀 The Ultimate C Programming Language
 
-Welcome to **The Ultimate C Programming Language** repository! This repository is a comprehensive, structured guide to learning C programming from fundamental concepts to advanced topics, complete with hands-on practice problems and a real-world console project.
+Welcome to **The Ultimate C Programming Language** repository! This repository is a comprehensive, structured guide to learning C programming from fundamental concepts to advanced topics, complete with hands-on practice problems, matrix operation scripts, and a real-world console project.
 
 ---
 
@@ -27,7 +27,7 @@ This repository covers:
 - Control structures (Conditionals & Loops)
 - Functions, recursion, and scope
 - Pointers and memory management
-- Arrays, strings, and dynamic memory allocation (`malloc`, `calloc`, `free`, `realloc`)
+- Arrays, 2D matrices (Addition, Multiplication, Transpose), and dynamic memory allocation (`malloc`, `calloc`, `free`, `realloc`)
 - User-defined data types (`struct`, `typedef`)
 - File input/output operations
 - Interactive mini-project
@@ -61,7 +61,8 @@ This repository covers:
 ├── CHAPTER - 10_PRACTICE SET/     # Practice problems for Chapter 10
 ├── CHAPTER - 11/                  # Dynamic Memory Allocation
 ├── CHAPTER - 11_PRACTICE SET/     # Practice problems for Chapter 11
-└── PROJECT - 01/                  # Game 1: Number Guessing Game
+├── PROJECT - 01/                  # Game 1: Number Guessing Game
+└── array/                         # Matrix operations (Addition, Multiplication, Transpose)
 ```
 
 ---
